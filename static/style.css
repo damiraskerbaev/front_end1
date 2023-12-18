@@ -1,0 +1,59 @@
+body #body_id {
+    background-color: rgb(54, 46, 46);
+    padding: 1%;
+    text-decoration: none;
+}
+
+body #body_id h1 {
+    color: white;
+    text-align: center;
+    height: 100%;
+    text-decoration: none;
+}
+
+body a {
+    background-color: rgb(54, 46, 46);
+    color: white;
+    width: 25%;
+    margin-left: 270px;
+    text-decoration: none;
+}
+
+body #title {
+    text-align: center;
+    text-decoration: none;
+}
+
+body #text {
+    text-align: center;
+    text-decoration: none;
+}
+
+body #title_2 {
+    text-align: center;
+    text-decoration: none;
+}
+
+body #text_2 {
+    text-align: center;
+}
+
+body #title_3 {
+    text-align: center;
+}
+
+body #text_3 {
+    text-align: center;
+}
+
+body #image_id {
+    margin: auto;
+    display: flex;
+}
+
+body footer {
+    background-color: rgb(54, 46, 46);
+    text-align: center;
+    padding: 1%;
+    font-size: 20px;
+}
